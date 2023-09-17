@@ -4,7 +4,7 @@ namespace TaskMaster.Controllers
 {
     public class UserAuthController : Controller
     {
-        public IActionResult Index()
+        public IActionResult Login()
         {
             return View();
         }
