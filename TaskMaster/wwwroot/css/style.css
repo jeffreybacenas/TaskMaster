@@ -34,20 +34,18 @@ body{
     outline: none;
     border-radius: 20px;
 }
-#submit{
+#submit {
     padding: 12px 30px;
-    width: 40%;
+    width: 70%;
     margin-top: 40px;
-    background-color: black;
+    background-color: lightskyblue;
     color: white;
     font-weight: bold;
     border: none;
     outline: none;
-    border-radius: 20px;
 }
 #submit:hover{
     cursor: pointer;
-    background-color: #750000;
 }
 .form a{
     text-decoration: none;
@@ -61,10 +59,14 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    white-space: pre-line;
     width: 50%;
-    background-color: #00D4FF;
+    background-color: lightskyblue;
 }
 .side img{
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 250px;
+}
+.line-break {
+    white-space: pre-line;
 }
