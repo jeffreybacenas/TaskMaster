@@ -9,8 +9,16 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\img.png",
+      "PackagePath": "staticwebassets\\img\\img.png"
     },
     {
       "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\js\\site.js",

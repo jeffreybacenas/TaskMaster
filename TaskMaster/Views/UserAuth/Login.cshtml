@@ -1,13 +1,30 @@
 ﻿@{
+    Layout = null;
     ViewData["Title"] = "Login Page";
 }
-<h1>@ViewData["Title"]</h1>
-<img src="~/images/myimage.jpg" alt="My Image" />
-<h1>Good Afternoon! Welcome Back</h1>
-<p>Enter your details! Below Here</p>
-<input type="email" placeholder="Email Address" />
-<input type="password" placeholder="Password Forget Password" />
-<button>Login</button>
-<p>Don't have an account? <a>Signup Now</a></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <form method="post" class="form">
+            <h2>Sign In</h2>
+            <input type="text" name="email" class="box" placeholder="Enter your Email">
+            <input type="password" name="password" class="box" placeholder="Enter your Password">
+            <input type="submit" value="Sign In" id="submit">
+            <a href="#">Forget Password?</a>
+        </form>
+        <div class="side">
+            <img src="img/img.png" alt="">
+        </div>
+    </div>
+</body>
+</html>
+
 
 

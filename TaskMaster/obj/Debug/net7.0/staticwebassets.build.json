@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "l3OHktHLP8vyvmueyZjE2GwOS9HxfXJ/9UVuXp6G3eI=",
+  "Hash": "3YT47c5gz1TkBaC3b57g2KWiB31uWUaZ/ayIQ13ovE0=",
   "Source": "TaskMaster",
   "BasePath": "_content/TaskMaster",
   "Mode": "Default",
@@ -68,6 +68,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\css\\style.css",
+      "SourceId": "TaskMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\",
+      "BasePath": "_content/TaskMaster",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
       "Identity": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\favicon.ico",
       "SourceId": "TaskMaster",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\img.png",
+      "SourceId": "TaskMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\",
+      "BasePath": "_content/TaskMaster",
+      "RelativePath": "img/img.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\img.png"
     },
     {
       "Identity": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\js\\site.js",
