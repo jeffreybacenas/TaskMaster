@@ -57,12 +57,12 @@ body{
 .form a:hover{
     color: #fd4e4e;
 }
-.side{
+.side {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 50%;
-    background-color: #750000;
+    background-color: #00D4FF;
 }
 .side img{
     width: 200px;
