@@ -13,5 +13,10 @@ namespace TaskMaster.Controllers
         {
             return View();
         }
+
+        public IActionResult ForgetPassword()
+        {
+            return View();
+        }
     }
 }
