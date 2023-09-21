@@ -20,9 +20,7 @@ C:\Users\jeffg\OneDrive\Desktop\Projects\TaskMaster\TaskMaster\obj\Debug\net7.0\
 C:\Users\jeffg\OneDrive\Desktop\Projects\TaskMaster\TaskMaster\obj\Debug\net7.0\staticwebassets.pack.json
 C:\Users\jeffg\OneDrive\Desktop\Projects\TaskMaster\TaskMaster\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\jeffg\OneDrive\Desktop\Projects\TaskMaster\TaskMaster\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\jeffg\OneDrive\Desktop\Projects\TaskMaster\TaskMaster\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\jeffg\OneDrive\Desktop\Projects\TaskMaster\TaskMaster\obj\Debug\net7.0\scopedcss\bundle\TaskMaster.styles.css
-C:\Users\jeffg\OneDrive\Desktop\Projects\TaskMaster\TaskMaster\obj\Debug\net7.0\scopedcss\projectbundle\TaskMaster.bundle.scp.css
 C:\Users\jeffg\OneDrive\Desktop\Projects\TaskMaster\TaskMaster\obj\Debug\net7.0\TaskMaster.dll
 C:\Users\jeffg\OneDrive\Desktop\Projects\TaskMaster\TaskMaster\obj\Debug\net7.0\refint\TaskMaster.dll
 C:\Users\jeffg\OneDrive\Desktop\Projects\TaskMaster\TaskMaster\obj\Debug\net7.0\TaskMaster.pdb

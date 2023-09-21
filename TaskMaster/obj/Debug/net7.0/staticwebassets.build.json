@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vA8MQ3W95wA7gTT6X21lq0RSQ//MAuMDWc1WsCriuXQ=",
+  "Hash": "2KORPkwVj4wonDCI0wRHPv6GEN9KwLnL/sWNU8tYmt4=",
   "Source": "TaskMaster",
   "BasePath": "_content/TaskMaster",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TaskMaster.styles.css",
-      "SourceId": "TaskMaster",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/TaskMaster",
-      "RelativePath": "TaskMaster.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TaskMaster.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TaskMaster.bundle.scp.css",
-      "SourceId": "TaskMaster",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/TaskMaster",
-      "RelativePath": "TaskMaster.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TaskMaster.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\css\\sb-admin-2.css",
       "SourceId": "TaskMaster",

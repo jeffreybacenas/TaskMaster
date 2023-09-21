@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TaskMaster.bundle.scp.css",
-      "PackagePath": "staticwebassets\\TaskMaster.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\css\\sb-admin-2.css",
       "PackagePath": "staticwebassets\\css\\sb-admin-2.css"
     },
