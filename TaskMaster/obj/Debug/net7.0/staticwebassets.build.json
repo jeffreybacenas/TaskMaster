@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2KORPkwVj4wonDCI0wRHPv6GEN9KwLnL/sWNU8tYmt4=",
+  "Hash": "kUgtb7/9NI2tfZUKHRBnbRQqz3Vpred6/zkPo8DpfKs=",
   "Source": "TaskMaster",
   "BasePath": "_content/TaskMaster",
   "Mode": "Default",
@@ -1256,6 +1256,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\task.png",
+      "SourceId": "TaskMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\",
+      "BasePath": "_content/TaskMaster",
+      "RelativePath": "task.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\task.png"
     },
     {
       "Identity": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
