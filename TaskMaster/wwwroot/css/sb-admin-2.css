@@ -11279,3 +11279,8 @@ footer.sticky-footer .copyright {
 body.sidebar-toggled footer.sticky-footer {
   width: 100%;
 }
+.to-pro:hover {
+    color: green;
+    cursor: pointer;
+    text-decoration: none;
+}
