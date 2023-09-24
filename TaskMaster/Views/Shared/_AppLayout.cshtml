@@ -37,6 +37,7 @@
             </a>
             <!-- Divider -->
             <hr class="sidebar-divider my-0">
+
             <!-- Nav Item - Dashboard -->
             <li class="nav-item" id="dashboard">
                 <a class="nav-link" href="@Url.Action("Dashboard", "Dashboard")">
@@ -44,6 +45,7 @@
                     <span>Dashboard</span>
                 </a>
             </li>
+
             <!-- Nav Item - Categories -->
             <li class="nav-item" id="categories">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#category"
@@ -404,7 +406,7 @@
                 <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
                 <div class="modal-footer">
                     <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-                    <a class="btn btn-primary" href="login.html">Logout</a>
+                    <a class="btn btn-primary" href="@Url.Action("Login", "UserAuth")">Logout</a>
                 </div>
             </div>
         </div>
@@ -426,23 +428,6 @@
 
     <!-- Page level custom scripts -->
     <script src="~/js/demo/datatables-demo.js"></script>
-
-    <script>
-        $(document).ready(function () {
-            // Add an event listener to the Dashboard link
-            $('#dashboard a.nav-link').on('click', function () {
-                console.log('Dashboard link clicked');
-                // Rest of the code...
-            });
-
-            // Add an event listener to the Categories and Create New links
-            $('#categories a.nav-link, #createNew').on('click', function () {
-                console.log('Categories or Create New link clicked');
-                // Rest of the code...
-            });
-        });
-    </script>
-
 
 </body>
 
