@@ -23,15 +23,17 @@
 
 </head>
 
-<body>
+<body id="page-top">
 
     <!-- Page Wrapper -->
     <div id="wrapper">
 
         <!-- Sidebar -->
+        <!-- Sidebar -->
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+
             <!-- Sidebar - Brand -->
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="@Url.Action("UserAuth", "Login")">
                 <div class="sidebar-brand-text mx-3">Task Master</div>
             </a>
             <!-- Divider -->
@@ -52,7 +54,7 @@
                     <i class="fas fa-fw fa-folder"></i>
                     <span>Categories</span>
                 </a>
-                <div id="category" class="collapse" aria-labelledby="headingTwo" data-parent="#category">
+                <div id="category" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <a class="collapse-item" href="@Url.Action("Categories", "Category")">Categories</a>
                         <a class="collapse-item" href="cards.html" id="createNew">Create New</a>
@@ -61,13 +63,13 @@
             </li>
 
             <!-- Nav Item - member -->
-            <li class="nav-item">
+            <li class="nav-item" id="member">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#member"
                    aria-expanded="true" aria-controls="member">
                     <i class="fas fa-fw fa-users"></i>
                     <span>Members</span>
                 </a>
-                <div id="member" class="collapse" aria-labelledby="headingTwo" data-parent="#member">
+                <div id="member" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <a class="collapse-item" href="buttons.html">Categories</a>
                         <a class="collapse-item" href="cards.html">Create New</a>
@@ -76,13 +78,13 @@
             </li>
 
             <!-- Nav Item - Project -->
-            <li class="nav-item">
+            <li class="nav-item" id="project">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#project"
                    aria-expanded="true" aria-controls="project">
                     <i class="fas fa-fw fa-briefcase"></i>
                     <span>Projects</span>
                 </a>
-                <div id="project" class="collapse" aria-labelledby="headingTwo" data-parent="#project">
+                <div id="project" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <a class="collapse-item" href="buttons.html">Projects</a>
                         <a class="collapse-item" href="cards.html">Create New</a>
@@ -91,7 +93,7 @@
             </li>
 
             <!-- Nav Item - Task -->
-            <li class="nav-item">
+            <li class="nav-item" id="task">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#task"
                    aria-expanded="true" aria-controls="task">
                     <i class="fas fa-fw fa-tasks"></i>
@@ -107,7 +109,7 @@
             </li>
 
             <!-- Nav Item - User Control -->
-            <li class="nav-item">
+            <li class="nav-item" id="user">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#user"
                    aria-expanded="true" aria-controls="user">
                     <i class="fas fa-fw fa-cogs"></i>
@@ -147,8 +149,26 @@
             </div>
 
             <!-- Sidebar Message -->
+            <!-- Nested Menu -->
+            <li class="nav-item">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#submenu">
+                    <i class="fas fa-fw fa-cog"></i>
+                    <span>Settings</span>
+                </a>
+                <div id="submenu" class="collapse">
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link" href="profile.html">Profile</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="preferences.html">Preferences</a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
 
         </ul>
+
         <!-- End of Sidebar -->
         <!-- Content Wrapper -->
         <div id="content-wrapper" class="d-flex flex-column">
