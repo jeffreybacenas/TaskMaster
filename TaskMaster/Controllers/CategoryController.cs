@@ -9,7 +9,7 @@ namespace TaskMaster.Controllers
             return View();
         }
 
-        public IActionResult CreateNew() 
+        public IActionResult CategoryForm() 
         {
             return View();
         }
