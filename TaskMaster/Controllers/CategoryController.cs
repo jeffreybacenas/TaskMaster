@@ -8,5 +8,10 @@ namespace TaskMaster.Controllers
         {
             return View();
         }
+
+        public IActionResult CreateNew() 
+        {
+            return View();
+        }
     }
 }
