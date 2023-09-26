@@ -8,5 +8,11 @@ namespace TaskMaster.Controllers
         {
             return View();
         }
+
+        public IActionResult MemberForm()
+        {
+            return View();
+        }
+
     }
 }
