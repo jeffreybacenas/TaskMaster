@@ -4,7 +4,7 @@ namespace TaskMaster.Controllers
 {
     public class TaskController : Controller
     {
-        public IActionResult Tasks()
+        public IActionResult Index()
         {
             return View();
         }

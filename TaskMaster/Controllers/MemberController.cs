@@ -4,7 +4,7 @@ namespace TaskMaster.Controllers
 {
     public class MemberController : Controller
     {
-        public IActionResult Members()
+        public IActionResult Index()
         {
             return View();
         }

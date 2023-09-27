@@ -32,20 +32,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/jeffg/OneDrive/Desktop/Projects/TaskMaster/TaskMaster/Views/Member/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jeffg/OneDrive/Desktop/Projects/TaskMaster/TaskMaster/Views/Member/MemberForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXE1lbWJlckZvcm0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jeffg/OneDrive/Desktop/Projects/TaskMaster/TaskMaster/Views/Member/Members.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXE1lbWJlcnMuY3NodG1s
+[C:/Users/jeffg/OneDrive/Desktop/Projects/TaskMaster/TaskMaster/Views/Project/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jeffg/OneDrive/Desktop/Projects/TaskMaster/TaskMaster/Views/Project/ProjectForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxQcm9qZWN0Rm9ybS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jeffg/OneDrive/Desktop/Projects/TaskMaster/TaskMaster/Views/Project/Projects.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxQcm9qZWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jeffg/OneDrive/Desktop/Projects/TaskMaster/TaskMaster/Views/Report/Index.cshtml]
@@ -68,12 +68,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jeffg/OneDrive/Desktop/Projects/TaskMaster/TaskMaster/Views/Task/TaskForm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xUYXNrRm9ybS5jc2h0bWw=
+[C:/Users/jeffg/OneDrive/Desktop/Projects/TaskMaster/TaskMaster/Views/Task/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jeffg/OneDrive/Desktop/Projects/TaskMaster/TaskMaster/Views/Task/Tasks.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xUYXNrcy5jc2h0bWw=
+[C:/Users/jeffg/OneDrive/Desktop/Projects/TaskMaster/TaskMaster/Views/Task/TaskForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xUYXNrRm9ybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jeffg/OneDrive/Desktop/Projects/TaskMaster/TaskMaster/Views/UserAuth/ForgetPassword.cshtml]
