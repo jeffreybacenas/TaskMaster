@@ -4,7 +4,7 @@ namespace TaskMaster.Controllers
 {
     public class CategoryController : Controller
     {
-        public IActionResult Categories()
+        public IActionResult Index()
         {
             return View();
         }

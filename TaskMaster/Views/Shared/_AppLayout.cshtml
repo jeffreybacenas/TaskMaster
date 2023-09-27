@@ -32,7 +32,7 @@
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
             <!-- Sidebar - Brand -->
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="@Url.Action("UserAuth", "Login")">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="@Url.Action("Dashboard", "Dashboard")">
                 <div class="sidebar-brand-text mx-3">Task Master</div>
             </a>
             <!-- Divider -->
@@ -55,7 +55,7 @@
                 </a>
                 <div id="category" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="@Url.Action("Categories", "Category")">Categories</a>
+                        <a class="collapse-item" href="@Url.Action("Index", "Category")">Categories</a>
                         <a class="collapse-item" href="@Url.Action("CreateNew", "Category")" id="createNew">Create New</a>
                     </div>
                 </div>
