@@ -29,7 +29,6 @@
     <div id="wrapper">
 
         <!-- Sidebar -->
-        <!-- Sidebar -->
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
             <!-- Sidebar - Brand -->
@@ -126,7 +125,7 @@
 
             <!-- Nav Item - Report -->
             <li class="nav-item">
-                <a class="nav-link" href="charts.html">
+                <a class="nav-link" href="@Url.Action("Index", "Report")">
                     <i class="fas fa-fw fa-chart-area"></i>
                     <span>Reports</span>
                 </a>
@@ -134,7 +133,7 @@
 
             <!-- Nav Item - Activity logs -->
             <li class="nav-item">
-                <a class="nav-link" href="tables.html">
+                <a class="nav-link" href="@Url.Action("Index", "ActivityLogs")">
                     <i class="fas fa-fw fa-history"></i>
                     <span>Activity logs</span>
                 </a>
@@ -158,10 +157,10 @@
                 <div id="submenu" class="collapse">
                     <ul class="nav flex-column">
                         <li class="nav-item">
-                            <a class="nav-link" href="profile.html">Profile</a>
+                            <a class="nav-link" href="@Url.Action("Profile", "Setting")">Profile</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="preferences.html">Preferences</a>
+                            <a class="nav-link" href="@Url.Action("Preference", "Setting")">Preferences</a>
                         </li>
                     </ul>
                 </div>
