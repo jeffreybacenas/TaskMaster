@@ -16,7 +16,7 @@
 
         <!-- Total Projects Card Example -->
         <div class="col-xl-3 col-md-6 mb-4">
-            <a class="nav-link" href="@Url.Action("Login","UserAuth")">
+            <a class="nav-link" href="@Url.Action("Index", "Project")">
                 <div class="card border-left-primary shadow h-100 py-2 hover-card">
                     <div class="card-body">
                         <div class="row no-gutters align-items-center">
@@ -38,7 +38,7 @@
 
         <!-- Total Task Card Example -->
         <div class="col-xl-3 col-md-6 mb-4">
-            <a class="nav-link" href="@Url.Action("Login","UserAuth")">
+            <a class="nav-link" href="@Url.Action("Index", "Task")">
                 <div class="card border-left-success shadow h-100 py-2">
                     <div class="card-body">
                         <div class="row no-gutters align-items-center">
@@ -59,7 +59,7 @@
 
         <!-- Total Member Card Example -->
         <div class="col-xl-3 col-md-6 mb-4">
-            <a class="nav-link" href="@Url.Action("Login","UserAuth")">
+            <a class="nav-link" href="@Url.Action("Index", "Member")">
                 <div class="card border-left-info shadow h-100 py-2">
                     <div class="card-body">
                         <div class="row no-gutters align-items-center">
@@ -84,7 +84,7 @@
 
         <!-- Total User Card Example -->
         <div class="col-xl-3 col-md-6 mb-4">
-            <a class="nav-link" href="@Url.Action("Login","UserAuth")">
+            <a class="nav-link" href="@Url.Action("Index", "UserControl")">
                 <div class="card border-left-warning shadow h-100 py-2">
                     <div class="card-body">
                         <div class="row no-gutters align-items-center">
@@ -116,7 +116,7 @@
             <div class="card shadow mb-4">
                 <div class="card-header py-3 d-flex justify-content-between">
                     <h6 class="m-0 font-weight-bold text-primary">Projects</h6>
-                    <a href="#" class="btn btn-primary btn-icon-split">
+                    <a href="@Url.Action("ProjectForm", "Project")" class="btn btn-primary btn-icon-split">
                         <span class="text">Create new</span>
                     </a>
                 </div>
