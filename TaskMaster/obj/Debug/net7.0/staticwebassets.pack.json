@@ -169,6 +169,182 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\fonts\\notika-icon.eot",
+      "PackagePath": "staticwebassets\\fonts\\notika-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\fonts\\notika-icon.svg",
+      "PackagePath": "staticwebassets\\fonts\\notika-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\fonts\\notika-icon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\notika-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\fonts\\notika-icon.woff",
+      "PackagePath": "staticwebassets\\fonts\\notika-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\images\\select.png",
+      "PackagePath": "staticwebassets\\images\\select.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\img\\chosen-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\country\\1.png",
+      "PackagePath": "staticwebassets\\img\\country\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\country\\2.png",
+      "PackagePath": "staticwebassets\\img\\country\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\country\\3.png",
+      "PackagePath": "staticwebassets\\img\\country\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\cropper\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\cropper\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\dialog\\like.png",
+      "PackagePath": "staticwebassets\\img\\dialog\\like.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\green1.png",
+      "PackagePath": "staticwebassets\\img\\green1.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\logo\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\post\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\post\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\post\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\search-engines\\baidu.png",
+      "PackagePath": "staticwebassets\\img\\search-engines\\baidu.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\search-engines\\bing.png",
+      "PackagePath": "staticwebassets\\img\\search-engines\\bing.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\search-engines\\duckduckgo.png",
+      "PackagePath": "staticwebassets\\img\\search-engines\\duckduckgo.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\search-engines\\google.png",
+      "PackagePath": "staticwebassets\\img\\search-engines\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\search-engines\\yahoo.png",
+      "PackagePath": "staticwebassets\\img\\search-engines\\yahoo.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\search-engines\\yandex.png",
+      "PackagePath": "staticwebassets\\img\\search-engines\\yandex.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\widgets\\2.png",
+      "PackagePath": "staticwebassets\\img\\widgets\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\widgets\\4.png",
+      "PackagePath": "staticwebassets\\img\\widgets\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\img\\widgets\\6.png",
+      "PackagePath": "staticwebassets\\img\\widgets\\6.png"
+    },
+    {
       "Id": "C:\\Users\\jeffg\\OneDrive\\Desktop\\Projects\\TaskMaster\\TaskMaster\\wwwroot\\js\\animation\\animation-active.js",
       "PackagePath": "staticwebassets\\js\\animation\\animation-active.js"
     },
